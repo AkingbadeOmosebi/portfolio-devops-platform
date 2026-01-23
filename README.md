@@ -78,6 +78,11 @@ This implementation delivers measurable business outcomes:
 
 ## Architecture
 
+### Architecture Diagram
+
+![Architecture diagram](./screenshots/Architecture.jpg)
+
+
 ### System Design
 
 The deployment pipeline follows a multi-stage approach with security validation at each step:
